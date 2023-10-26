@@ -5,3 +5,4 @@ jupyterlab
 mysql-connector-python
 pymongo
 dnspython
+pandas
